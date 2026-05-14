@@ -1,0 +1,9 @@
+anomaly_type,count
+ADS-B STALE / jumpy positions,150
+Emergency squawk 7700,150
+Runway without clearance,150
+Position jump anomaly,150
+Groundspeed spike,150
+Altitude deviation – aircraft not following assigned altitude,150
+Duplicate Hex or spoofed ID,150
+Low SIL / NAC / RSSI - integrity below threshold,150

@@ -1,0 +1,5 @@
+split,rows,normal_rows,anomaly_rows,pct_anomaly,distinct_files
+train,1894,947,947,50.0,5
+val,404,202,202,50.0,1
+test,102,51,51,50.0,1
+all,2400,1200,1200,50.0,7
